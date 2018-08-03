@@ -1,6 +1,6 @@
-#Singular Value Decomposition of Operators on Reproducing Kernel Hilbert Spaces
+# Singular Value Decomposition of Operators on Reproducing Kernel Hilbert Spaces
 
-##Abstract[^*]
+## Abstract<sup>1</sup>
 
 Reproducing kernel Hilbert spaces (RKHSs) play an important role in many statistics
 and machine learning applications ranging from support vector machines to Gaussian
@@ -15,5 +15,5 @@ foundation  for  the  eigenvalue  decomposition  of  RKHS  operators  and  to  e
 approach to the singular value decomposition.  The results are illustrated with simple
 guiding examples.
 
-[^*]:
+<sup>1</sup>:
 Abstract taken from the corresponding [paper](https://arxiv.org/abs/1807.09331) with Ingmar Schuster (Freie Universität Berlin), Stefan Klus (Freie Universität Berlin), Christof Schütte (Zuse Institut Berlin, Freie Universität Berlin).
